@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="xlEyX92lpY-V8RWt1eSj">
-    <mxGraphModel dx="2217" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,73 +13,193 @@
         <mxCell id="_WFlMjglueLMnV6Pqlt_-3" value="DIRECTION DES ETUDES ET FORMATIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="290" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-4" value="Departement Informatique Telecommunication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-4" value="Département Informatique Télécommunication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-5" value="Departement Techniques des Affaires" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-6" value="Departement Biotechnologie et Agronomie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-7" value="Departement Genie Industrielle et Genie Civil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-8" value="Departement Techniques du Tourisme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-15" value="IGGLIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-19" value="ESIIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-20" value="ISAIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-21" value="IMTIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="700" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_WFlMjglueLMnV6Pqlt_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_WFlMjglueLMnV6Pqlt_-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-300" y="720" as="sourcePoint" />
             <mxPoint x="-300" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_WFlMjglueLMnV6Pqlt_-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="534.5" as="sourcePoint" />
+            <mxPoint x="-250" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="600" as="sourcePoint" />
+            <mxPoint x="-270" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="660" as="sourcePoint" />
+            <mxPoint x="-270" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="720" as="sourcePoint" />
+            <mxPoint x="-270" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-49" value="Département Techniques des Affaires" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-50" value="CAA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-51" value="DTJA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-52" value="EMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-53" value="FIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="720" as="sourcePoint" />
+            <mxPoint x="-140" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="_WFlMjglueLMnV6Pqlt_-50" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="534.5" as="sourcePoint" />
+            <mxPoint x="-90" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="600" as="sourcePoint" />
+            <mxPoint x="-110" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="660" as="sourcePoint" />
+            <mxPoint x="-110" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="720" as="sourcePoint" />
+            <mxPoint x="-110" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-59" value="Département Biotechnologie et Agronomie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-60" value="IAA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-61" value="PIP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-63" value="AEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="660" as="sourcePoint" />
+            <mxPoint x="20" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="_WFlMjglueLMnV6Pqlt_-60" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="534.5" as="sourcePoint" />
+            <mxPoint x="70" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="600" as="sourcePoint" />
+            <mxPoint x="50" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="660" as="sourcePoint" />
+            <mxPoint x="50" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-69" value="Département Genie Industriel et Genie Civil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-70" value="EMII" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-71" value="GCA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-73" value="ICMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="660" as="sourcePoint" />
+            <mxPoint x="180" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="_WFlMjglueLMnV6Pqlt_-70" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="534.5" as="sourcePoint" />
+            <mxPoint x="230" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="600" as="sourcePoint" />
+            <mxPoint x="210" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="660" as="sourcePoint" />
+            <mxPoint x="210" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-79" value="Département Techniques du Tourisme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-80" value="TEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-81" value="TEH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="600" as="sourcePoint" />
+            <mxPoint x="340" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-85" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="_WFlMjglueLMnV6Pqlt_-80" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="534.5" as="sourcePoint" />
+            <mxPoint x="390" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WFlMjglueLMnV6Pqlt_-86" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="600" as="sourcePoint" />
+            <mxPoint x="370" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
